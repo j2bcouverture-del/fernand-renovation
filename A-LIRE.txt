@@ -1,0 +1,24 @@
+FERNAND RÉNOVATION - SITE WEB
+
+Base complète prête pour GitHub Pages.
+
+Déjà inclus :
+- identité blanc / bleu / anthracite basée sur le logo ;
+- accueil responsive mobile ;
+- menu, urgence toiture, services, zones, diagnostic interactif, simulateur, galerie et devis ;
+- pages SEO Rhône (69) et Isère (38) ;
+- pages rénovation, fuite, zinguerie et démoussage ;
+- données structurées Schema.org ;
+- robots.txt et modèle de sitemap ;
+- aucun identifiant Analytics / Ads / téléphone / e-mail J2B réutilisé.
+
+À me transmettre pour finaliser :
+1. numéro de téléphone Fernand Rénovation ;
+2. e-mail ;
+3. adresse / ville principale ;
+4. SIRET et informations mentions légales ;
+5. futur nom de domaine ;
+6. éventuels identifiants GA4 / Google Ads ;
+7. photos de chantiers réelles.
+
+Pour GitHub : décompresser le ZIP et envoyer tous les fichiers à la racine du dépôt fernand-renovation.

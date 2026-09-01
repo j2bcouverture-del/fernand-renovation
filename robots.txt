@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Ajouter le sitemap absolu après choix du nom de domaine.
